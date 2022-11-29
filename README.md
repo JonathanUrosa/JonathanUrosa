@@ -82,7 +82,7 @@ I am a professional game developer with an experience of more than 5 years of ga
 [![Twitch Status](https://img.shields.io/twitch/status/aesthezel?style=social)](https://img.shields.io/twitch/status/aesthezel?label=Spy%20me&style=social)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCP1rnfULo8Tu2NAJo2gBOFQ?style=social)
 ##### Discord servers
-[![Quesillo Studios | Discord](https://img.shields.io/discord/652894509302153216?color=yellow&label=Quesillo%20Studios&logo=discord&logoColor=white)](http://quesillo.me/discord)
+[![Vision Expresiva Studios | Discord](https://img.shields.io/discord/652894509302153216?color=blueviolet&label=VisionExpresiva%20Studios&logo=discord&logoColor=white)](https://discord.gg/v47K4qxm)
 
 ### My websites 🌎
 [![Aesthezel's | Portfolio](https://img.shields.io/website?down_color=lightgrey&down_message=Woops%21&label=Portfolio&up_color=red&up_message=Updating&url=https%3A%2F%2Faesthezel.site)](http://quesillo.me/aesthezel)
@@ -90,13 +90,7 @@ I am a professional game developer with an experience of more than 5 years of ga
 
 ### Tools that I use 🔨
 [![Unity](https://img.shields.io/static/v1?label=Unity&message=Advanced&color=green&style=for-the-badge&logo=unity&logoColor=white)](#)
-[![Krita](https://img.shields.io/static/v1?label=Krita&message=Advanced&color=green&style=for-the-badge&logo=krita&logoColor=white)](#)
-[![Visual Studio Code](https://img.shields.io/static/v1?label=VS%20Code&message=Knowledged&color=blueviolet&style=for-the-badge&logo=visual-studio-code&logoColor=white)](#)
-[![Azure Functions](https://img.shields.io/static/v1?label=Azure%20Functions&message=Middle&color=yellow&style=for-the-badge&logo=azurefunctions&logoColor=white)](#)
-[![Godot Engine](https://img.shields.io/static/v1?label=Godot%20Engine&message=Middle&color=yellow&style=for-the-badge&logo=godot-engine&logoColor=white)](#)
-[![Affinity Designer](https://img.shields.io/static/v1?label=Affinity%20Designer&message=Middle&color=yellow&style=for-the-badge&logo=affinity-designer&logoColor=white)](#)
-[![Affinity Photo](https://img.shields.io/static/v1?label=Affinity%20Photo&message=Middle&color=yellow&style=for-the-badge&logo=affinity-photo&logoColor=white)](#)
-[![Band Lab](https://img.shields.io/static/v1?label=BandLab&message=Beginner&color=yellowgreen&style=for-the-badge&logo=bandlab&logoColor=white)](https://www.bandlab.com/aesthezel)
+[![Visual Studio Code](https://img.shields.io/static/v1?label=VS%20Code&message=Advanced&color=blueviolet&style=for-the-badge&logo=visual-studio-code&logoColor=white)](#)
 
 
 ---------------
