@@ -87,71 +87,51 @@
 
 -----
 
-<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
-Saurabh</a></h1>
-<h3 align="center">A passionate Mobile App developer from Pune India &#127470;&#127475</h3>
+## Hola, I'm David Pino 🥨
+*I'm a Game Developer and Concept Artist*
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
+### About me 🏓
+- 👨‍🏫 I regularly give presentations and workshops[[1]](https://www.youtube.com/playlist?list=PLPI6-ufVFSM07vQDBfdoRaZJNdgUNruhG)[[2]](https://www.youtube.com/playlist?list=PLPI6-ufVFSM0FpQIz7Zw2D7Jxg_nzd2kZ) about gamedev.
+- 🎮 I' working on Game Develop (Since 2018)
+- 🚩 I've prepare a [bootcamp to beginners on Unity](http://quesillo.me/bootcamp-unity) (_spanish only for now_), is totally free.
+- 📐 I'm currently developing E-learning Game Developing guides called [**Nivel Secreto**](https://www.youtube.com/playlist?list=PLPI6-ufVFSM3C-gLUTmQs87B7aQdxOZjI) _only in Spanish for now_.
+- 🎤 I record a podcast called [**Nivel Secreto**](https://anchor.fm/aesthezel) (in spanish speak) related about videogames in general.
+- 💾 I'm learning about **shaders** `.hlsl` and *Shader Graph*, and procedural textures on Substance Designer a like programs.
+- 💊 I use everyday `.cs`, `.js`, `.cpp`, `.py`, `.gdscript`, `.lua`.
+- 🎓 I also study Fine Arts (Promo ~2022~ 2025 *I guess or not*).
 
-<p align="left"> <a href="https://twitter.com/100rabhcsmc" target="blank"><img src="https://img.shields.io/twitter/follow/100rabhcsmc?logo=twitter&style=for-the-badge" alt="100rabhcsmc" /></a> </p>
+<details>
+  <summary><b>Projects 💾</b></summary>
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
+- [Zaperoco](https://quesillostudios.com/zaperoco), a folkloric fighting videogame about Venezuelan personalities and mythology.
+- [The Unfound Net](https://theunfound.net/), thriller noir about periodistic investigation that includes paranormal activity.
+- Exodus and Destroy Invaders, action videogame still in development.
+- [Sir Alone](https://aesthezel.itch.io/sir-alone), a videogame (still in development), developed in 7 days for a jam.
+- [Interview Duelist](https://kikritz.itch.io/interview-duelist), a jam videogame, done in 3 days.
+- [MEM-O-RAMA](https://aesthezel.itch.io/mem-o-rama), a video game released for the [GMTK2021 Game Jam](https://itch.io/jam/gmtk-2021/rate/1084568), made only by me.
+- [Hellheim](https://globalgamejam.org/2021/games/hellheim-3), a video game released on GGJ 2021 with other 3 team mates.
+- [High Speed Hands](https://play.google.com/store/apps/details?id=com.domiyes.highspeedhands), speed poker game developed with my team on Shokworks, Inc.
+</details>
 
-- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
+### Contact me 🤝
+##### Social links
+[![Aesthezel's | Twitter](https://img.shields.io/twitter/follow/aesthezel?label=Spy%20%40aesthezel&style=social)](https://twitter.com/intent/user?screen_name=aesthezel)
+[![Write me on Twitter](https://img.shields.io/static/v1?label=Write%20me&message=🖋&color=blue&style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Faesthezel&text=Hi%20@aesthezel%20..%21%20I%20view%20your%20awesome%20Github%20Profile&hashtags=github)
+[![Twitch Status](https://img.shields.io/twitch/status/aesthezel?style=social)](https://img.shields.io/twitch/status/aesthezel?label=Spy%20me&style=social)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCP1rnfULo8Tu2NAJo2gBOFQ?style=social)
+##### Discord servers
+[![Quesillo Studios | Discord](https://img.shields.io/discord/652894509302153216?color=yellow&label=Quesillo%20Studios&logo=discord&logoColor=white)](http://quesillo.me/discord)
 
-- 🌱 I’m currently Working on Mobile App(React-Native)
+### My websites 🌎
+[![Aesthezel's | Portfolio](https://img.shields.io/website?down_color=lightgrey&down_message=Woops%21&label=Portfolio&up_color=red&up_message=Updating&url=https%3A%2F%2Faesthezel.site)](http://quesillo.me/aesthezel)
+[![Quesillo Studios | Website](https://img.shields.io/website?down_color=lightgrey&down_message=Woops%21&label=Quesillo%20Studio&up_color=yellow&up_message=Up&url=https%3A%2F%2Fquesillostudios.com)](http://quesillo.me)
 
-- 🤝 I’m available for freelancing.
-
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
-
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
-
-- 💬 Ask me about **Reactjs & React-Native**
-
-- 📫 How to reach me **saurabhchavan052@gmail.com**
-
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
-<br/>
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
-
-<p align="center">
-
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile">
-				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/100rabhcsmc">
-					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/100rabhch">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/100rabhcsmc">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
-				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
-		<a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
-					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
-      </div>
-
-</p>
-
-### Blogs posts
-
-<!-- BLOG-POST-LIST:START -->
-
-- [Download Instagram profile picture using python](https://dev.to/100rabhcsmc/instagram-profile-picture-download-using-python-n2j)
-- [Convert a image to sketch using python](https://dev.to/100rabhcsmc/convert-a-image-to-sketch-using-python-3ip1)
-- [Upload your project/files in GitHub using commands](https://dev.to/100rabhcsmc/upload-your-project-files-in-github-using-commands-1hn8)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-Credit: [Saurabh Chavan](https://github.com/100rabhcsmc)
-
-Last Edited on: 08/08/2022
-
+### Tools that I use 🔨
+[![Unity](https://img.shields.io/static/v1?label=Unity&message=Advanced&color=green&style=for-the-badge&logo=unity&logoColor=white)](#)
+[![Krita](https://img.shields.io/static/v1?label=Krita&message=Advanced&color=green&style=for-the-badge&logo=krita&logoColor=white)](#)
+[![Visual Studio Code](https://img.shields.io/static/v1?label=VS%20Code&message=Knowledged&color=blueviolet&style=for-the-badge&logo=visual-studio-code&logoColor=white)](#)
+[![Azure Functions](https://img.shields.io/static/v1?label=Azure%20Functions&message=Middle&color=yellow&style=for-the-badge&logo=azurefunctions&logoColor=white)](#)
+[![Godot Engine](https://img.shields.io/static/v1?label=Godot%20Engine&message=Middle&color=yellow&style=for-the-badge&logo=godot-engine&logoColor=white)](#)
+[![Affinity Designer](https://img.shields.io/static/v1?label=Affinity%20Designer&message=Middle&color=yellow&style=for-the-badge&logo=affinity-designer&logoColor=white)](#)
+[![Affinity Photo](https://img.shields.io/static/v1?label=Affinity%20Photo&message=Middle&color=yellow&style=for-the-badge&logo=affinity-photo&logoColor=white)](#)
+[![Band Lab](https://img.shields.io/static/v1?label=BandLab&message=Beginner&color=yellowgreen&style=for-the-badge&logo=bandlab&logoColor=white)](https://www.bandlab.com/aesthezel)
