@@ -35,8 +35,9 @@ I am a professional game developer with an experience of more than 5 years of ga
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   
 <br>
-  
-### Contact me 🤝
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Contact me</b>
+
 <div>
   <samp>
     <p align="Left">
@@ -50,9 +51,7 @@ I am a professional game developer with an experience of more than 5 years of ga
       <a href="mailto:jonathanurosa@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="azzar" height="30"/></a>
-    </p>
-  <p align="Left">
-      <a href="https://instagram.com/jonathanurosa" target="blank"><img align="center"
+       <a href="https://instagram.com/jonathanurosa" target="blank"><img align="center"
          src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
          alt="azzar" height="30"/></a>
       <a href="https://wa.me/+584245491806" target="blank"><img align="center"
@@ -61,7 +60,6 @@ I am a professional game developer with an experience of more than 5 years of ga
       <a href="https://twitter.com/JonathanUrosa" target="blank"><img align="center"
          src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
          alt="azzar" height="30"/></a>
-      <br>
     </p>
   </samp>
 </div>
