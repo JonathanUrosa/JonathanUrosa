@@ -12,10 +12,9 @@
 I am a professional game developer with an experience of more than 5 years of game development in Unity. I have made videogames for mobiles, browser and desktop.
 <br>
 
-- :school: I am a `Junior` at Faculty of Computers & Informatics at Suez Canal University
-- :trophy: `ACPC` Finalist 2021
-- :technologist: I love using Software as a solution for every `Problem`
-- :computer: I am a competitive programmer mainly at `Codeforces`
+- :trophy: `SuperPionero` +100K play store
+- 💻 I love using Software as a solution for every `Problem`
+- 🎮 I am a competitive programmer mainly at `Unity and C#`
 
 [![RESUME](https://img.shields.io/static/v1?label=RESUME&message=CV&color=blue&style=for-the-badge)](https://github.com/JonathanUrosa/cv/blob/main/CV.pdf)
 <!-- [RESUME](https://github.com/JonathanUrosa/cv/blob/main/CV.pdf). -->
